@@ -1,0 +1,30 @@
+	 	 	 Relatório de Empréstimo
+Parâmetros
+Data Inicial: 10/09/2019
+Data Final: 23/09/2019
+________________________________________________________________________________
+Código do Empréstimo do DVD ou Jogo: 34
+Nome do Funcionário que realizou o Empréstimo: Miguel Da Silva Alvez
+Nome do Cliente: Leticia Viera Da Silva
+Nome do DVD ou Jogo: Fórmula 1 2017
+Quantidade de Dias Emprestado: 10
+Valor da Diária: 3.00
+Valor Total: 30.00
+Data do Empréstimo: 12/09/2019
+Data da Devolução: 22/09/2019
+Data da Criação deste  registro: 12/09/2019 11:20:17
+Data da última atualização deste registro: 12/09/2019 19:05:20
+________________________________________________________________________________
+Código do Empréstimo do DVD ou Jogo: 35
+Nome do Funcionário que realizou o Empréstimo: Miguel Da Silva Alvez
+Nome do Cliente: Leticia Viera Da Silva
+Nome do DVD ou Jogo: Mario Kart De Nintendo Switch
+Quantidade de Dias Emprestado: 8
+Valor da Diária: 3.00
+Valor Total: 24.00
+Data do Empréstimo: 13/09/2019
+Data da Devolução: 21/09/2019
+Data da Criação deste  registro: 13/09/2019 13:33:06
+Data da última atualização deste registro: 13/09/2019 13:34:18
+________________________________________________________________________________
+Quantidade de Registros Retornados: 2 registros.

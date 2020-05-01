@@ -1,0 +1,18 @@
+	 	 	 Relatório de Empréstimo
+Parâmetros
+Data Inicial: 04/10/2019
+Data Final: 04/10/2019
+________________________________________________________________________________
+Código do Empréstimo do DVD ou Jogo: 36
+Nome do Funcionário que realizou o Empréstimo: Miguel Da Silva Alvez
+Nome do Cliente: Leticia Viera Da Silva
+Nome do DVD ou Jogo: Fifa 2018
+Quantidade de Dias Emprestado: 3
+Valor da Diária: 5.07
+Valor Total: 15.21
+Data do Empréstimo: 04/10/2019
+Data da Devolução: 07/10/2019
+Data da Criação deste  registro: 04/10/2019 18:37:49
+Data da última atualização deste registro: 04/10/2019 18:37:49
+________________________________________________________________________________
+Quantidade de Registros Retornados: 1 registro.

@@ -1,0 +1,54 @@
+	 	 	 Relatório de Empréstimo
+Parâmetros
+Data Inicial: 04/10/2019
+Data Final: 08/10/2019
+________________________________________________________________________________
+Código do Empréstimo do DVD ou Jogo: 36
+Nome do Funcionário que realizou o Empréstimo: Miguel Da Silva Alvez
+Nome do Cliente: Leticia Viera Da Silva
+Nome do DVD ou Jogo: Fifa 2018
+Quantidade de Dias Emprestado: 3
+Valor da Diária: 5.07
+Valor Total: 15.21
+Data do Empréstimo: 04/10/2019
+Data da Devolução: 07/10/2019
+Data da Criação deste  registro: 04/10/2019 18:37:49
+Data da última atualização deste registro: 04/10/2019 18:37:49
+________________________________________________________________________________
+Código do Empréstimo do DVD ou Jogo: 37
+Nome do Funcionário que realizou o Empréstimo: Beatriz Ferreira De Souza.
+Nome do Cliente: Alexandre Almeida
+Nome do DVD ou Jogo: Devil My Cry
+Quantidade de Dias Emprestado: 5
+Valor da Diária: 0.00
+Valor Total: 0.00
+Data do Empréstimo: 08/10/2019
+Data da Devolução: 13/10/2019
+Data da Criação deste  registro: 08/10/2019 14:52:43
+Data da última atualização deste registro: 08/10/2019 14:52:43
+________________________________________________________________________________
+Código do Empréstimo do DVD ou Jogo: 38
+Nome do Funcionário que realizou o Empréstimo: Beatriz Ferreira De Souza.
+Nome do Cliente: Alexandre Almeida
+Nome do DVD ou Jogo: Devil My Cry
+Quantidade de Dias Emprestado: 5
+Valor da Diária: -1.00
+Valor Total: -5.00
+Data do Empréstimo: 08/10/2019
+Data da Devolução: 13/10/2019
+Data da Criação deste  registro: 08/10/2019 14:58:54
+Data da última atualização deste registro: 08/10/2019 14:58:54
+________________________________________________________________________________
+Código do Empréstimo do DVD ou Jogo: 39
+Nome do Funcionário que realizou o Empréstimo: Miguel Da Silva Alvez
+Nome do Cliente: Amanda Ferreira
+Nome do DVD ou Jogo: Devil My Cry
+Quantidade de Dias Emprestado: 8
+Valor da Diária: 12.00
+Valor Total: 96.00
+Data do Empréstimo: 08/10/2019
+Data da Devolução: 16/10/2019
+Data da Criação deste  registro: 08/10/2019 15:31:49
+Data da última atualização deste registro: 08/10/2019 15:31:49
+________________________________________________________________________________
+Quantidade de Registros Retornados: 4 registros.
